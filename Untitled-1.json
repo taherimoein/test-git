@@ -1,0 +1,132 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "type": "vip",
+            "status": 1,
+            "price": 100,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 2,
+            "type": "vip",
+            "status": 1,
+            "price": 100,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 3,
+            "type": "vip",
+            "status": 0,
+            "price": 100,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 4,
+            "type": "vip",
+            "status": 0,
+            "price": 100,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 5,
+            "type": "normal",
+            "status": 0,
+            "price": 80,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 6,
+            "type": "normal",
+            "status": 2,
+            "price": 80,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 7,
+            "type": "normal",
+            "status": 0,
+            "price": 80,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 8,
+            "type": "normal",
+            "status": 0,
+            "price": 80,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 9,
+            "type": "normal",
+            "status": 0,
+            "price": 80,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 10,
+            "type": "normal",
+            "status": 2,
+            "price": 80,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 11,
+            "type": "normal",
+            "status": 0,
+            "price": 80,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 12,
+            "type": "normal",
+            "status": 0,
+            "price": 80,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 13,
+            "type": "normal",
+            "status": 0,
+            "price": 80,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 14,
+            "type": "normal",
+            "status": 0,
+            "price": 80,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 15,
+            "type": "normal",
+            "status": 0,
+            "price": 80,
+            "user": null,
+            "reservation_time": null
+        },
+        {
+            "id": 16,
+            "type": "normal",
+            "status": 0,
+            "price": 80,
+            "user": null,
+            "reservation_time": null
+        }
+    ]
+}
